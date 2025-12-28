@@ -1,3 +1,4 @@
+# server/migrations/versions/b6aec9715b77_create_tables.py
 """Create tables
 
 Revision ID: b6aec9715b77

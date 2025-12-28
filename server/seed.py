@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-
+# server/seed.py
 from app import app
 from models import db, Bakery, BakedGood
 
